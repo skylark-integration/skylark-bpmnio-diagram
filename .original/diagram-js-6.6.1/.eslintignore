@@ -1,0 +1,4 @@
+coverage
+dist
+example/dist
+example/node_modules

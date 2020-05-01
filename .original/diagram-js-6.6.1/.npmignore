@@ -1,0 +1,11 @@
+.github
+example
+.eslintignore
+.eslintrc
+.travis.yml
+karma.conf.js
+test/*
+!test/util
+!test/helper
+!test/matchers
+coverage
